@@ -1,0 +1,6 @@
+1: cd d:/MachineLearning    
+2: git pull origin master
+3: git init
+4: git add . （全部文件）或者某个文件，如git add command-list.txt
+5: git commit -m 'Add a new file'
+6: git push -u origin master 或者git push origin master
